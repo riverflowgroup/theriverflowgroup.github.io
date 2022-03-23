@@ -172,7 +172,7 @@ ul, ul li {
           animation: loader-item-10 2s linear infinite;
 }
 .loader:after {
-  content: 'Simplithe...';
+  content: 'Riverflow Group...';
   font-size: 18px;
   font-family: 'Poppins', sans-serif;
   color: #ffffff;
